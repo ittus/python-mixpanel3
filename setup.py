@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='mixpanel3',
       version='0.1',
       description='Utility library to work with mixpanel API',
-      url='http://github.com/storborg/funniest',
+      url='https://github.com/ittus/python-mixpanel3',
       author='ittus',
       author_email='vuminhthang.cm@gmail.com',
       license='MIT',
